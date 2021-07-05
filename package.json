@@ -1,0 +1,25 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "command line password generator",
+  "main": "index.js",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claysam75/passgen.git"
+  },
+  "author": "SC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claysam75/passgen/issues"
+  },
+  "homepage": "https://github.com/claysam75/passgen#readme"
+}
