@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "command line password generator",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
   "dependencies": {
     "clipboardy": "^2.3.0",
     "chalk": "^4.1.1",
